@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6032-5E64
+
+ Directory of C:\Users\AVSCU5744\Desktop\MyProject
+
+10-12-2022  19:47    <DIR>          .
+10-12-2022  19:44    <DIR>          ..
+10-12-2022  19:47                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  397,889,916,928 bytes free
